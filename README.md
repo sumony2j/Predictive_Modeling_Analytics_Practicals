@@ -21,7 +21,7 @@ The repository includes Python scripts and excel sheets demonstrating the implem
 
 ## Usage
 
-To get started, for the technique you're interested in, open the corresponding Python script . Each file contains code examples along with comments explaining the implementation details and usage instructions. You can run the code in your local Python environment or in a Jupyter notebook to experiment with the techniques and understand how they work.
+To get started, for the technique you're interested in, open the corresponding jupyter notebook or excel sheet. Each file contains code examples along with comments explaining the implementation details and usage instructions. You can run the code in your local Python environment or in a Jupyter notebook to experiment with the techniques and understand how they work.
 
 
 ## Contributing
